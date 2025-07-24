@@ -26,6 +26,7 @@
     "title": "Ausgewählte Projekte",
     "subtitle": "Beispiele für Lösungen, die Kunden beim Erreichen ihrer Ziele geholfen haben",
     "viewAll": "Alle Projekte ansehen",
+    "viewProject": "Projekt Ansehen",
     "categories": {
       "all": "Alle",
       "web": "Websites",
@@ -47,7 +48,7 @@
     }
   },
   "footer": {
-    "rights": "© 2025 Yulia Kuts. Alle Rechte vorbehalten.",
+    "rights": "© 2025 Yuliia Kuts. Alle Rechte vorbehalten.",
     "made": "Gemacht mit ❤️ und Kaffee in Genf"
   }
 }

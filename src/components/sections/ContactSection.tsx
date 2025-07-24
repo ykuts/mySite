@@ -2,7 +2,8 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
-import { Mail, Github, Linkedin, Calendar } from 'lucide-react';
+import { Mail, Calendar } from 'lucide-react';
+import { SiGithub, SiLinkedin } from 'react-icons/si';
 import { motion } from 'framer-motion';
 
 const ContactSection = () => {
@@ -39,7 +40,7 @@ const ContactSection = () => {
           className="flex flex-col sm:flex-row gap-4 justify-center mb-12"
         >
           <a
-            href="mailto:hello@yuliakuts.dev"
+            href="mailto:hello@yuliiakuts.dev"
             className="bg-white text-gray-900 px-8 py-4 rounded-full hover:bg-gray-100 transition-colors flex items-center justify-center gap-2"
           >
             <Mail className="w-5 h-5" />
@@ -62,29 +63,29 @@ const ContactSection = () => {
           className="flex justify-center space-x-6"
         >
           <a
-            href="mailto:hello@yuliakuts.dev"
+            href="mailto:hello@yuliiakuts.dev"
             className="text-gray-400 hover:text-white transition-colors"
             aria-label="Email"
           >
             <Mail className="w-6 h-6" />
           </a>
           <a
-            href="https://github.com/yuliakuts"
+            href="https://github.com/yuliiakuts"
             className="text-gray-400 hover:text-white transition-colors"
             aria-label="GitHub"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Github className="w-6 h-6" />
+            <SiGithub className="w-6 h-6" />
           </a>
           <a
-            href="https://linkedin.com/in/yuliakuts"
+            href="https://linkedin.com/in/yuliiakuts"
             className="text-gray-400 hover:text-white transition-colors"
             aria-label="LinkedIn"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Linkedin className="w-6 h-6" />
+            <SiLinkedin className="w-6 h-6" />
           </a>
         </motion.div>
       </div>

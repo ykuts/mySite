@@ -1,6 +1,7 @@
-import FeaturedProjectsSection from '@/components/sections/FeaturedProjectsSection';
 import HeroSection from '@/components/sections/HeroSection';
 import ServicesSection from '@/components/sections/ServicesSection';
+import FeaturedProjectsSection from '@/components/sections/FeaturedProjectsSection';
+import ContactSection from '@/components/sections/ContactSection';
 
 interface HomePageProps {
   params: Promise<{
@@ -14,11 +15,9 @@ export default async function HomePage({ params }: HomePageProps) {
   return (
     <div>
       <HeroSection />
-      
-      {/* Временные секции - добавим позже */}
       <ServicesSection />
-
       <FeaturedProjectsSection />
+      <ContactSection />
     </div>
   );
 }

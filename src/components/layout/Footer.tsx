@@ -1,6 +1,9 @@
+'use client';
+
 import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
-import { Mail, Github, Linkedin } from 'lucide-react';
+import { Mail } from 'lucide-react';
+import { SiLinkedin, SiGithub } from 'react-icons/si';
 
 const Footer = () => {
   const t = useTranslations('footer');
@@ -13,7 +16,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-2">
             <Link href={`/${locale}`} className="text-2xl font-bold mb-4 block">
-              Yulia Kuts
+              Yuliia Kuts
             </Link>
             <p className="text-gray-300 max-w-md">
               Web Developer & Automation Expert based in Geneva, Switzerland. 
@@ -21,29 +24,29 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4 mt-6">
               <a
-                href="mailto:hello@yuliakuts.dev"
+                href="mailto:hello@yuliiakuts.dev"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Email"
               >
                 <Mail className="w-5 h-5" />
               </a>
               <a
-                href="https://github.com/yuliakuts"
+                href="https://github.com/ykuts"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Github className="w-5 h-5" />
+                <SiGithub className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com/in/yuliakuts"
+                href="https://linkedin.com/in/yuliiakuts"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Linkedin className="w-5 h-5" />
+                <SiLinkedin className="w-5 h-5" />
               </a>
             </div>
           </div>

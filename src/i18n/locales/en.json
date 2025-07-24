@@ -26,6 +26,7 @@
     "title": "Featured projects",
     "subtitle": "Examples of solutions that helped clients achieve their goals",
     "viewAll": "View all projects",
+    "viewProject": "View Project",
     "categories": {
       "all": "All",
       "web": "Websites",
@@ -47,7 +48,7 @@
     }
   },
   "footer": {
-    "rights": "© 2025 Yulia Kuts. All rights reserved.",
+    "rights": "© 2025 Yuliia Kuts. All rights reserved.",
     "made": "Made with ❤️ and coffee in Geneva"
   }
 }

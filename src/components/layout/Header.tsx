@@ -57,7 +57,7 @@ const Header = () => {
               <span className="text-white font-bold text-sm">YK</span>
             </div>
             <span className="font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">
-              Yulia Kuts
+              Yuliia KUTS
             </span>
           </Link>
 

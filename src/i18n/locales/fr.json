@@ -26,6 +26,7 @@
     "title": "Projets sélectionnés",
     "subtitle": "Exemples de solutions qui ont aidé les clients à atteindre leurs objectifs",
     "viewAll": "Voir tous les projets",
+    "viewProject": "Voir le Projet",
     "categories": {
       "all": "Tous",
       "web": "Sites web",
@@ -47,7 +48,7 @@
     }
   },
   "footer": {
-    "rights": "© 2025 Yulia Kuts. Tous droits réservés.",
+    "rights": "© 2025 Yuliia Kuts. Tous droits réservés.",
     "made": "Fait avec ❤️ et café à Genève"
   }
 }
