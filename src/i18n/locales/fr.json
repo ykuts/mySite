@@ -1,17 +1,53 @@
 {
-  "test": "Hallo aus dem Deutschen!",
   "nav": {
-    "home": "Start",
-    "about": "Über mich",
-    "services": "Leistungen",
-    "portfolio": "Portfolio", 
-    "contact": "Kontakt"
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "blog": "Blog"
   },
   "hero": {
-    "title": "Web-Lösungen für",
-    "titleAccent": "wachsende Unternehmen", 
-    "subtitle": "Ich entwickle moderne Websites, E-Commerce-Plattformen und automatisiere Geschäftsprozesse.",
-    "cta1": "Projekt besprechen",
-    "cta2": "Arbeiten ansehen"
+    "title": "Solutions web pour",
+    "titleAccent": "entreprises en croissance",
+    "subtitle": "Je crée des sites web modernes, des plateformes e-commerce et automatise les processus métier. Des projets personnels aux solutions corporatives.",
+    "cta1": "Discuter du projet",
+    "cta2": "Voir mes travaux"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Développeuse passionnée avec un focus sur la qualité et les résultats"
+  },
+  "services": {
+    "title": "Ce que je fais",
+    "subtitle": "Cycle complet de développement de l'idée au lancement avec focus sur les résultats et la qualité"
+  },
+  "portfolio": {
+    "title": "Projets sélectionnés",
+    "subtitle": "Exemples de solutions qui ont aidé les clients à atteindre leurs objectifs",
+    "viewAll": "Voir tous les projets",
+    "categories": {
+      "all": "Tous",
+      "web": "Sites web",
+      "ecommerce": "E-commerce",
+      "automation": "Automatisation"
+    }
+  },
+  "contact": {
+    "title": "Prêt à démarrer un projet?",
+    "subtitle": "Parlez-moi de votre défi, et je vous proposerai la solution optimale",
+    "email": "Envoyer un email",
+    "schedule": "Planifier un appel",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message"
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Yulia Kuts. Tous droits réservés.",
+    "made": "Fait avec ❤️ et café à Genève"
   }
 }

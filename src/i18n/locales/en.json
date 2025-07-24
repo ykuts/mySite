@@ -1,17 +1,53 @@
 {
-  "test": "Hello from English!",
   "nav": {
     "home": "Home",
-    "about": "About", 
+    "about": "About",
     "services": "Services",
     "portfolio": "Portfolio",
-    "contact": "Contact"
+    "contact": "Contact",
+    "blog": "Blog"
   },
   "hero": {
     "title": "Web solutions for",
     "titleAccent": "growing business",
-    "subtitle": "I create modern websites, e-commerce platforms and automate business processes.",
+    "subtitle": "I create modern websites, e-commerce platforms and automate business processes. From personal projects to corporate solutions.",
     "cta1": "Discuss project",
     "cta2": "View work"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "Passionate developer with focus on quality and results"
+  },
+  "services": {
+    "title": "What I do",
+    "subtitle": "Full development cycle from idea to launch with focus on results and quality"
+  },
+  "portfolio": {
+    "title": "Featured projects",
+    "subtitle": "Examples of solutions that helped clients achieve their goals",
+    "viewAll": "View all projects",
+    "categories": {
+      "all": "All",
+      "web": "Websites",
+      "ecommerce": "E-commerce",
+      "automation": "Automation"
+    }
+  },
+  "contact": {
+    "title": "Ready to start a project?",
+    "subtitle": "Tell me about your challenge, and I'll suggest the optimal solution",
+    "email": "Send email",
+    "schedule": "Schedule call",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message"
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Yulia Kuts. All rights reserved.",
+    "made": "Made with ❤️ and coffee in Geneva"
   }
 }
