@@ -169,15 +169,75 @@
     }
   },
   "portfolio": {
-    "title": "Projets sélectionnés",
+    "title": "Projets Sélectionnés",
     "subtitle": "Exemples de solutions qui ont aidé les clients à atteindre leurs objectifs",
     "viewAll": "Voir tous les projets",
     "viewProject": "Voir le Projet",
     "categories": {
       "all": "Tous",
-      "web": "Sites web",
+      "web": "Site Web",
       "ecommerce": "E-commerce",
       "automation": "Automatisation"
+    },
+    "hero": {
+      "badge": "Travaux Sélectionnés et Études de Cas",
+      "title": "Portfolio Créatif",
+      "subtitle": "Explorez une collection de projets qui mettent en valeur l'innovation, la créativité et l'excellence technique. Chaque projet raconte une histoire de défis surmontés et d'objectifs atteints.",
+      "stats": {
+        "projects": "Projets",
+        "clients": "Clients Satisfaits",
+        "specializations": "Spécialisations",
+        "users": "Utilisateurs Atteints"
+      },
+      "scroll": "Explorer les Projets"
+    },
+    "filter": {
+      "title": "Parcourir par Catégorie",
+      "subtitle": "Filtrez les projets par type pour trouver exactement ce que vous cherchez",
+      "showing": "Affichage des projets"
+    },
+    "grid": {
+      "featured": "Sélectionné",
+      "viewDemo": "Voir la Démo Live",
+      "viewCode": "Voir le Code Source",
+      "soloProject": "Projet Solo",
+      "loadMore": "Charger Plus de Projets"
+    },
+    "stats": {
+      "title": "Résultats Prouvés",
+      "subtitle": "Les chiffres ne mentent pas. Voici ce que la qualité constante et le dévouement accomplissent au fil du temps.",
+      "success": {
+        "title": "Taux de Réussite",
+        "value": "100%",
+        "description": "Projets livrés avec succès"
+      },
+      "delivery": {
+        "title": "Livraison à Temps",
+        "value": "95%", 
+        "description": "Projets terminés dans les délais"
+      },
+      "satisfaction": {
+        "title": "Satisfaction Client",
+        "value": "5.0",
+        "description": "Note moyenne des clients"
+      },
+      "scope": {
+        "title": "Portée du Projet",
+        "value": "Zéro",
+        "description": "Incidents de dérive de portée"
+      }
+    },
+    "cta": {
+      "title": "Inspiré par Ce Que Vous Voyez?",
+      "subtitle": "Chaque projet de ce portfolio a commencé par une conversation. Parlons de la façon dont nous pouvons donner vie à votre vision.",
+      "buttons": {
+        "start": "Démarrer Votre Projet",
+        "services": "Voir les Services"
+      },
+      "testimonial": {
+        "quote": "Yulia a transformé notre site web obsolète en une plateforme moderne et performante qui a dépassé toutes nos attentes. L'attention aux détails et le professionnalisme étaient remarquables.",
+        "author": "Sarah Johnson, PDG chez TechStart Solutions"
+      }
     }
   },
   "contact": {

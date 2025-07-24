@@ -169,15 +169,75 @@
     }
   },
   "portfolio": {
-    "title": "Ausgewählte Projekte",
+    "title": "Ausgewählte Projekte", 
     "subtitle": "Beispiele für Lösungen, die Kunden beim Erreichen ihrer Ziele geholfen haben",
     "viewAll": "Alle Projekte ansehen",
     "viewProject": "Projekt Ansehen",
     "categories": {
       "all": "Alle",
-      "web": "Websites",
+      "web": "Website",
       "ecommerce": "E-Commerce",
       "automation": "Automatisierung"
+    },
+    "hero": {
+      "badge": "Ausgewählte Arbeiten & Fallstudien",
+      "title": "Kreatives Portfolio",
+      "subtitle": "Entdecken Sie eine Sammlung von Projekten, die Innovation, Kreativität und technische Exzellenz zeigen. Jedes Projekt erzählt eine Geschichte von überwundenen Herausforderungen und erreichten Zielen.",
+      "stats": {
+        "projects": "Projekte",
+        "clients": "Zufriedene Kunden",
+        "specializations": "Spezialisierungen", 
+        "users": "Erreichte Nutzer"
+      },
+      "scroll": "Projekte Erkunden"
+    },
+    "filter": {
+      "title": "Nach Kategorie Durchsuchen",
+      "subtitle": "Filtern Sie Projekte nach Typ, um genau das zu finden, wonach Sie suchen",
+      "showing": "Zeige Projekte"
+    },
+    "grid": {
+      "featured": "Hervorgehoben",
+      "viewDemo": "Live-Demo Ansehen",
+      "viewCode": "Quellcode Ansehen",
+      "soloProject": "Solo-Projekt",
+      "loadMore": "Mehr Projekte Laden"
+    },
+    "stats": {
+      "title": "Bewiesene Ergebnisse",
+      "subtitle": "Zahlen lügen nicht. Hier ist, was konsequente Qualität und Hingabe über die Zeit erreichen.",
+      "success": {
+        "title": "Erfolgsrate",
+        "value": "100%",
+        "description": "Projekte erfolgreich geliefert"
+      },
+      "delivery": {
+        "title": "Pünktliche Lieferung",
+        "value": "95%",
+        "description": "Projekte termingerecht abgeschlossen"
+      },
+      "satisfaction": {
+        "title": "Kundenzufriedenheit",
+        "value": "5.0", 
+        "description": "Durchschnittliche Bewertung von Kunden"
+      },
+      "scope": {
+        "title": "Projektumfang",
+        "value": "Null",
+        "description": "Scope-Creep-Vorfälle"
+      }
+    },
+    "cta": {
+      "title": "Inspiriert von dem was Sie Sehen?",
+      "subtitle": "Jedes Projekt in diesem Portfolio begann mit einem Gespräch. Lassen Sie uns darüber sprechen, wie wir Ihre Vision zum Leben erwecken können.",
+      "buttons": {
+        "start": "Ihr Projekt Starten",
+        "services": "Services Ansehen"
+      },
+      "testimonial": {
+        "quote": "Yulia verwandelte unsere veraltete Website in eine moderne, leistungsstarke Plattform, die alle unsere Erwartungen übertraf. Die Liebe zum Detail und die Professionalität waren herausragend.",
+        "author": "Sarah Johnson, CEO bei TechStart Solutions"
+      }
     }
   },
   "contact": {
@@ -194,7 +254,7 @@
     }
   },
   "footer": {
-    "rights": "© 2025 Yuliia Kuts. Alle Rechte vorbehalten.",
+    "rights": "© 2025 Yulia Kuts. Alle Rechte vorbehalten.",
     "made": "Gemacht mit ❤️ und Kaffee in Genf"
   }
 }

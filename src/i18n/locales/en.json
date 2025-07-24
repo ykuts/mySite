@@ -169,15 +169,75 @@
     }
   },
   "portfolio": {
-    "title": "Featured projects",
+    "title": "Featured Projects",
     "subtitle": "Examples of solutions that helped clients achieve their goals",
     "viewAll": "View all projects",
     "viewProject": "View Project",
     "categories": {
       "all": "All",
-      "web": "Websites",
-      "ecommerce": "E-commerce",
+      "web": "Website",
+      "ecommerce": "E-commerce", 
       "automation": "Automation"
+    },
+    "hero": {
+      "badge": "Featured Work & Case Studies",
+      "title": "Creative Portfolio",
+      "subtitle": "Explore a collection of projects that showcase innovation, creativity, and technical excellence. Each project tells a story of challenges overcome and goals achieved.",
+      "stats": {
+        "projects": "Projects",
+        "clients": "Happy Clients",
+        "specializations": "Specializations",
+        "users": "Users Reached"
+      },
+      "scroll": "Explore Projects"
+    },
+    "filter": {
+      "title": "Browse by Category",
+      "subtitle": "Filter projects by type to find exactly what you're looking for",
+      "showing": "Showing projects"
+    },
+    "grid": {
+      "featured": "Featured",
+      "viewDemo": "View Live Demo",
+      "viewCode": "View Source Code",
+      "soloProject": "Solo Project",
+      "loadMore": "Load More Projects"
+    },
+    "stats": {
+      "title": "Proven Results",
+      "subtitle": "Numbers don't lie. Here's what consistent quality and dedication achieve over time.",
+      "success": {
+        "title": "Success Rate",
+        "value": "100%",
+        "description": "Projects delivered successfully"
+      },
+      "delivery": {
+        "title": "On-Time Delivery", 
+        "value": "95%",
+        "description": "Projects completed on schedule"
+      },
+      "satisfaction": {
+        "title": "Client Satisfaction",
+        "value": "5.0",
+        "description": "Average rating from clients"
+      },
+      "scope": {
+        "title": "Project Scope",
+        "value": "Zero",
+        "description": "Scope creep incidents"
+      }
+    },
+    "cta": {
+      "title": "Inspired by What You See?",
+      "subtitle": "Every project in this portfolio started with a conversation. Let's talk about how we can bring your vision to life.",
+      "buttons": {
+        "start": "Start Your Project",
+        "services": "View Services"
+      },
+      "testimonial": {
+        "quote": "Yulia transformed our outdated website into a modern, high-performing platform that exceeded all our expectations. The attention to detail and professionalism was outstanding.",
+        "author": "Sarah Johnson, CEO at TechStart Solutions"
+      }
     }
   },
   "contact": {
@@ -194,7 +254,7 @@
     }
   },
   "footer": {
-    "rights": "© 2025 Yuliia Kuts. All rights reserved.",
+    "rights": "© 2025 Yulia Kuts. All rights reserved.",
     "made": "Made with ❤️ and coffee in Geneva"
   }
 }
