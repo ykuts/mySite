@@ -20,7 +20,72 @@
   },
   "services": {
     "title": "Ce que je fais",
-    "subtitle": "Cycle complet de développement de l'idée au lancement avec focus sur les résultats et la qualité"
+    "subtitle": "Cycle complet de développement de l'idée au lancement avec focus sur les résultats et la qualité",
+    "hero": {
+      "badge": "Solutions de Développement Complètes",
+      "title": "Services Qui Stimulent la Croissance",
+      "subtitle": "Du concept au déploiement, je fournis des solutions de développement web de bout en bout qui transforment vos idées en expériences numériques puissantes qui livrent des résultats.",
+      "stats": {
+        "projects": "Projets Terminés",
+        "experience": "Années d'Expérience",
+        "services": "Services Principaux", 
+        "satisfaction": "Satisfaction Client"
+      },
+      "scroll": "Explorer les Services"
+    },
+    "process": {
+      "title": "Mon Processus de Développement",
+      "subtitle": "Une méthodologie éprouvée qui garantit que votre projet est livré à temps, dans le budget et dépasse les attentes.",
+      "steps": {
+        "discovery": {
+          "title": "Découverte & Analyse",
+          "description": "Comprendre vos besoins commerciaux, votre public cible et les exigences du projet"
+        },
+        "strategy": {
+          "title": "Stratégie & Planification",
+          "description": "Créer une feuille de route complète avec chronologie, architecture et approche de conception"
+        },
+        "development": {
+          "title": "Développement & Tests",
+          "description": "Construire votre solution avec du code propre, des tests réguliers et des mises à jour de progression"
+        },
+        "launch": {
+          "title": "Lancement & Optimisation",
+          "description": "Déployer votre projet et fournir un support continu et une optimisation"
+        }
+      },
+      "cta": {
+        "title": "Prêt à Démarrer Votre Projet?",
+        "subtitle": "Discutons de vos exigences et créons quelque chose d'incroyable ensemble.",
+        "button": "Planifier une Consultation"
+      }
+    },
+    "technologies": {
+      "title": "Technologies & Expertise",
+      "subtitle": "Je travaille avec des technologies et frameworks modernes pour livrer des solutions de pointe qui évoluent avec votre entreprise."
+    },
+    "contact": {
+      "title": "Construisons Quelque Chose d'Incroyable Ensemble",
+      "subtitle": "Prêt à transformer vos idées en réalité? Discutons de votre projet et trouvons la solution parfaite pour vos besoins commerciaux.",
+      "methods": {
+        "email": {
+          "title": "Envoyer un Email",
+          "description": "Questions rapides ou demandes de projet"
+        },
+        "form": {
+          "title": "Formulaire de Contact",
+          "description": "Discussions détaillées sur le projet"
+        },
+        "call": {
+          "title": "Planifier un Appel",
+          "description": "Session de consultation gratuite"
+        }
+      },
+      "buttons": {
+        "start": "Démarrer Votre Projet",
+        "portfolio": "Voir le Portfolio"
+      }
+    }
   },
   "portfolio": {
     "title": "Projets sélectionnés",

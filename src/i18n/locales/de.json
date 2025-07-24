@@ -20,7 +20,72 @@
   },
   "services": {
     "title": "Was ich mache",
-    "subtitle": "Vollständiger Entwicklungszyklus von der Idee bis zum Launch mit Fokus auf Ergebnisse und Qualität"
+    "subtitle": "Vollständiger Entwicklungszyklus von der Idee bis zum Launch mit Fokus auf Ergebnisse und Qualität",
+    "hero": {
+      "badge": "Komplette Entwicklungslösungen",
+      "title": "Services Die Wachstum Antreiben",
+      "subtitle": "Vom Konzept bis zur Bereitstellung biete ich End-to-End-Webentwicklungslösungen, die Ihre Ideen in leistungsstarke digitale Erfahrungen verwandeln, die Ergebnisse liefern.",
+      "stats": {
+        "projects": "Abgeschlossene Projekte",
+        "experience": "Jahre Erfahrung",
+        "services": "Kern-Services",
+        "satisfaction": "Kundenzufriedenheit"
+      },
+      "scroll": "Services Erkunden"
+    },
+    "process": {
+      "title": "Mein Entwicklungsprozess",
+      "subtitle": "Eine bewährte Methodik, die sicherstellt, dass Ihr Projekt pünktlich, im Budget und die Erwartungen übertreffend geliefert wird.",
+      "steps": {
+        "discovery": {
+          "title": "Entdeckung & Analyse",
+          "description": "Verstehen Ihrer Geschäftsanforderungen, Zielgruppe und Projektanforderungen"
+        },
+        "strategy": {
+          "title": "Strategie & Planung",
+          "description": "Erstellen einer umfassenden Roadmap mit Zeitplan, Architektur und Design-Ansatz"
+        },
+        "development": {
+          "title": "Entwicklung & Testing",
+          "description": "Aufbau Ihrer Lösung mit sauberem Code, regelmäßigen Tests und Fortschrittsupdates"
+        },
+        "launch": {
+          "title": "Launch & Optimierung",
+          "description": "Bereitstellung Ihres Projekts und laufende Unterstützung und Optimierung"
+        }
+      },
+      "cta": {
+        "title": "Bereit Ihr Projekt zu Starten?",
+        "subtitle": "Lassen Sie uns Ihre Anforderungen besprechen und zusammen etwas Großartiges schaffen.",
+        "button": "Beratung Planen"
+      }
+    },
+    "technologies": {
+      "title": "Technologien & Expertise",
+      "subtitle": "Ich arbeite mit modernen Technologien und Frameworks, um hochmoderne Lösungen zu liefern, die mit Ihrem Unternehmen skalieren."
+    },
+    "contact": {
+      "title": "Lassen Sie Uns Etwas Großartiges Zusammen Aufbauen",
+      "subtitle": "Bereit, Ihre Ideen in die Realität umzusetzen? Lassen Sie uns Ihr Projekt besprechen und die perfekte Lösung für Ihre Geschäftsanforderungen finden.",
+      "methods": {
+        "email": {
+          "title": "E-Mail Senden",
+          "description": "Schnelle Fragen oder Projektanfragen"
+        },
+        "form": {
+          "title": "Kontaktformular",
+          "description": "Detaillierte Projektdiskussionen"
+        },
+        "call": {
+          "title": "Anruf Planen",
+          "description": "Kostenlose Beratungssession"
+        }
+      },
+      "buttons": {
+        "start": "Ihr Projekt Starten",
+        "portfolio": "Portfolio Ansehen"
+      }
+    }
   },
   "portfolio": {
     "title": "Ausgewählte Projekte",

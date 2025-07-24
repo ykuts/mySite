@@ -20,7 +20,72 @@
   },
   "services": {
     "title": "What I do",
-    "subtitle": "Full development cycle from idea to launch with focus on results and quality"
+    "subtitle": "Full development cycle from idea to launch with focus on results and quality",
+    "hero": {
+      "badge": "Complete Development Solutions",
+      "title": "Services That Drive Growth",
+      "subtitle": "From concept to deployment, I provide end-to-end web development solutions that transform your ideas into powerful digital experiences that deliver results.",
+      "stats": {
+        "projects": "Projects Completed",
+        "experience": "Years Experience", 
+        "services": "Core Services",
+        "satisfaction": "Client Satisfaction"
+        },
+      "scroll": "Explore Services"
+    },
+    "process": {
+      "title": "My Development Process",
+      "subtitle": "A proven methodology that ensures your project is delivered on time, within budget, and exceeds expectations.",
+      "steps": {
+        "discovery": {
+          "title": "Discovery & Analysis",
+          "description": "Understanding your business needs, target audience, and project requirements"
+        },
+        "strategy": {
+          "title": "Strategy & Planning", 
+          "description": "Creating a comprehensive roadmap with timeline, architecture, and design approach"
+        },
+        "development": {
+          "title": "Development & Testing",
+          "description": "Building your solution with clean code, regular testing, and progress updates"
+        },
+        "launch": {
+          "title": "Launch & Optimization",
+          "description": "Deploying your project and providing ongoing support and optimization"
+        }
+      },
+      "cta": {
+        "title": "Ready to Start Your Project?",
+        "subtitle": "Let's discuss your requirements and create something amazing together.",
+        "button": "Schedule a Consultation"
+      }
+    },
+    "technologies": {
+      "title": "Technologies & Expertise",
+      "subtitle": "I work with modern technologies and frameworks to deliver cutting-edge solutions that scale with your business."
+    },
+    "contact": {
+      "title": "Let's Build Something Amazing Together",
+      "subtitle": "Ready to transform your ideas into reality? Let's discuss your project and find the perfect solution for your business needs.",
+      "methods": {
+        "email": {
+          "title": "Send Email",
+          "description": "Quick questions or project inquiries"
+        },
+        "form": {
+          "title": "Contact Form", 
+          "description": "Detailed project discussions"
+        },
+        "call": {
+          "title": "Schedule Call",
+          "description": "Free consultation session"
+        }
+      },
+      "buttons": {
+        "start": "Start Your Project",
+        "portfolio": "View Portfolio"
+      }
+    }
   },
   "portfolio": {
     "title": "Featured projects",
