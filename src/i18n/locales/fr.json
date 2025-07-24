@@ -1,0 +1,17 @@
+{
+  "test": "Hallo aus dem Deutschen!",
+  "nav": {
+    "home": "Start",
+    "about": "Über mich",
+    "services": "Leistungen",
+    "portfolio": "Portfolio", 
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Web-Lösungen für",
+    "titleAccent": "wachsende Unternehmen", 
+    "subtitle": "Ich entwickle moderne Websites, E-Commerce-Plattformen und automatisiere Geschäftsprozesse.",
+    "cta1": "Projekt besprechen",
+    "cta2": "Arbeiten ansehen"
+  }
+}

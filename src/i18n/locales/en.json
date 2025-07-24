@@ -1,0 +1,17 @@
+{
+  "test": "Hello from English!",
+  "nav": {
+    "home": "Home",
+    "about": "About", 
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Web solutions for",
+    "titleAccent": "growing business",
+    "subtitle": "I create modern websites, e-commerce platforms and automate business processes.",
+    "cta1": "Discuss project",
+    "cta2": "View work"
+  }
+}

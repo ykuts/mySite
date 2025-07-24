@@ -1,0 +1,54 @@
+{
+    "test": "Hallo aus dem Deutschen!",
+  "nav": {
+    "home": "Start",
+    "about": "Über mich",
+    "services": "Leistungen",
+    "portfolio": "Portfolio",
+    "contact": "Kontakt",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Web-Lösungen für",
+    "titleAccent": "wachsende Unternehmen",
+    "subtitle": "Ich entwickle moderne Websites, E-Commerce-Plattformen und automatisiere Geschäftsprozesse. Von persönlichen Projekten bis zu Unternehmenslösungen.",
+    "cta1": "Projekt besprechen",
+    "cta2": "Arbeiten ansehen"
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Leidenschaftliche Entwicklerin mit Fokus auf Qualität und Ergebnisse"
+  },
+  "services": {
+    "title": "Was ich mache",
+    "subtitle": "Vollständiger Entwicklungszyklus von der Idee bis zum Launch mit Fokus auf Ergebnisse und Qualität"
+  },
+  "portfolio": {
+    "title": "Ausgewählte Projekte",
+    "subtitle": "Beispiele für Lösungen, die Kunden beim Erreichen ihrer Ziele geholfen haben",
+    "viewAll": "Alle Projekte ansehen",
+    "categories": {
+      "all": "Alle",
+      "web": "Websites",
+      "ecommerce": "E-Commerce",
+      "automation": "Automatisierung"
+    }
+  },
+  "contact": {
+    "title": "Bereit für ein Projekt?",
+    "subtitle": "Erzählen Sie mir von Ihrer Herausforderung, und ich schlage die optimale Lösung vor",
+    "email": "E-Mail senden",
+    "schedule": "Anruf planen",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Nachricht senden"
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Yulia Kuts. Alle Rechte vorbehalten.",
+    "made": "Gemacht mit ❤️ und Kaffee in Genf"
+  }
+}

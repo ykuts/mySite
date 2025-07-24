@@ -24,3 +24,47 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-feature-settings: 'rlig' 1, 'calt' 1;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply py-20 px-6;
+  }
+  
+  .container {
+    @apply max-w-6xl mx-auto;
+  }
+  
+  .btn-primary {
+    @apply bg-gray-900 text-white px-8 py-4 rounded-full hover:bg-gray-800 transition-all duration-300 hover:scale-105 flex items-center justify-center gap-2;
+  }
+  
+  .btn-secondary {
+    @apply border border-gray-300 text-gray-900 px-8 py-4 rounded-full hover:border-gray-400 hover:bg-gray-50 transition-colors flex items-center justify-center;
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent;
+  }
+  
+  .card {
+    @apply bg-white border border-gray-200 rounded-2xl p-6 hover:shadow-xl transition-all duration-500;
+  }
+  
+  .card-hover {
+    @apply hover:-translate-y-2;
+  }
+}
