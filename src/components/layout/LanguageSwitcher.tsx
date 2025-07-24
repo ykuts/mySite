@@ -5,9 +5,9 @@ import { useRouter, usePathname } from 'next/navigation';
 import { cn } from '@/lib/utils';
 
 const languages = [
-  { code: 'en', name: 'EN' },
-  { code: 'fr', name: 'FR' },
-  { code: 'de', name: 'DE' },
+  { code: 'en', name: 'EN', flag: '🇺🇸' },
+  { code: 'fr', name: 'FR', flag: '🇫🇷' },
+  { code: 'de', name: 'DE', flag: '🇩🇪' },
 ];
 
 const LanguageSwitcher = () => {
@@ -23,19 +23,20 @@ const LanguageSwitcher = () => {
   };
 
   return (
-    <div className="flex items-center space-x-1 text-sm">
+    <div className="flex items-center bg-gray-100 rounded-lg p-1">
       {languages.map((lang) => (
         <button
           key={lang.code}
           onClick={() => handleLanguageChange(lang.code)}
           className={cn(
-            'px-2 py-1 rounded transition-colors',
+            'flex items-center space-x-1 px-2 py-1 rounded-md text-sm font-medium transition-all duration-200',
             locale === lang.code
-              ? 'bg-gray-900 text-white'
-              : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'
+              ? 'bg-white text-gray-900 shadow-sm'
+              : 'text-gray-600 hover:text-gray-900 hover:bg-gray-200'
           )}
         >
-          {lang.name}
+          <span className="text-xs">{lang.flag}</span>
+          <span>{lang.name}</span>
         </button>
       ))}
     </div>
