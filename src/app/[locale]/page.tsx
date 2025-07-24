@@ -1,3 +1,12 @@
+import { locales } from '@/i18n/request';
+
+// Генерируем статические параметры для всех локалей
+export function generateStaticParams() {
+  return locales.map((locale) => ({
+    locale
+  }));
+}
+
 export default function HomePage() {
   return (
     <div style={{ padding: '20px' }}>

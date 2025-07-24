@@ -8,5 +8,11 @@ export default createMiddleware({
 });
 
 export const config = {
-  matcher: ['/((?!api|_next|_vercel|.*\\..*).*)', '/']
+  // Исключаем API routes, статические файлы, и внутренние файлы Next.js
+  matcher: [
+    // Включаем все пути кроме исключений
+    '/((?!api|_next|_vercel|.*\\..*).*)',
+    // Включаем корневой путь
+    '/'
+  ]
 };
