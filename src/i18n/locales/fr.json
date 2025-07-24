@@ -16,7 +16,88 @@
   },
   "about": {
     "title": "À propos de moi",
-    "subtitle": "Développeuse passionnée avec un focus sur la qualité et les résultats"
+    "subtitle": "Développeuse passionnée avec un focus sur la qualité et les résultats",
+    "hero": {
+      "greeting": "Ravi de vous rencontrer !",
+      "intro": "Une développeuse web passionnée et experte en automatisation basée à Genève, en Suisse. Je transforme les défis commerciaux complexes en solutions numériques élégantes qui stimulent la croissance et l'efficacité.",
+      "facts": {
+        "location": "Genève, Suisse",
+        "experience": "5+ Années d'Expérience",
+        "coffee": "Passionnée de Café",
+        "code": "Amoureuse du Code Propre"
+      },
+      "cta": {
+        "work": "Travaillons Ensemble",
+        "resume": "Télécharger le CV"
+      }
+    },
+    "story": {
+      "title": "Mon Parcours",
+      "started": {
+        "title": "Comment Tout a Commencé",
+        "content": "Mon voyage dans le développement web a commencé pendant mes années universitaires quand j'ai découvert le pouvoir du code pour résoudre des problèmes du monde réel. Ce qui a commencé comme une curiosité est rapidement devenu une passion pour créer des solutions numériques qui font la différence."
+      },
+      "growing": {
+        "title": "Grandir et Apprendre",
+        "content": "Au fil des années, j'ai travaillé avec des startups et des entreprises établies, les aidant à développer leur présence numérique. Chaque projet m'a appris quelque chose de nouveau et a renforcé ma conviction que la technologie devrait être accessible, efficace et belle."
+      },
+      "mission": {
+        "title": "Ma Mission Aujourd'hui",
+        "content": "Aujourd'hui, je me concentre sur l'aide aux entreprises pour tirer parti de la technologie afin d'atteindre leurs objectifs. Qu'il s'agisse de construire un site web époustouflant, de développer une application web complexe, ou d'automatiser les processus métier, je suis là pour transformer votre vision en réalité."
+      }
+    },
+    "skills": {
+      "title": "Compétences et Expertise",
+      "subtitle": "Une boîte à outils complète construite grâce à des années d'expérience pratique et d'apprentissage continu dans le monde en constante évolution du développement web."
+    },
+    "experience": {
+      "title": "Expérience Professionnelle"
+    },
+    "values": {
+      "title": "Mes Valeurs",
+      "subtitle": "Les principes qui guident mon travail et façonnent ma façon d'aborder chaque projet et relation client.",
+      "list": {
+        "passion": {
+          "title": "Motivée par la Passion",
+          "description": "J'aime sincèrement ce que je fais. Chaque projet est une opportunité de créer quelque chose de significatif et d'impactant."
+        },
+        "client": {
+          "title": "Centrée sur le Client",
+          "description": "Votre succès est mon succès. Je travaille en étroite collaboration avec les clients pour comprendre leurs besoins et dépasser les attentes."
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Je reste à jour avec les dernières technologies et meilleures pratiques pour livrer des solutions de pointe."
+        },
+        "results": {
+          "title": "Orientée Résultats",
+          "description": "Chaque ligne de code a un but. Je me concentre sur la livraison de résultats mesurables et de valeur commerciale."
+        },
+        "reliability": {
+          "title": "Fiabilité",
+          "description": "Les délais comptent. Je suis fière de livrer les projets à temps et de maintenir une communication claire."
+        },
+        "quality": {
+          "title": "Qualité d'Abord",
+          "description": "Un code propre et maintenable et des tests approfondis garantissent que votre projet résiste à l'épreuve du temps."
+        }
+      }
+    },
+    "cta": {
+      "title": "Prêt à Travailler Ensemble?",
+      "subtitle": "Je suis toujours ravie de relever de nouveaux défis et d'aider à donner vie à vos idées. Discutons de la façon dont nous pouvons travailler ensemble pour atteindre vos objectifs.",
+      "buttons": {
+        "talk": "Parlons",
+        "resume": "Télécharger le CV",
+        "work": "Voir Mon Travail"
+      },
+      "stats": {
+        "coffee": "Tasses de café",
+        "code": "Lignes de code",
+        "clients": "Clients satisfaits",
+        "projects": "Projets lancés"
+      }
+    }
   },
   "services": {
     "title": "Ce que je fais",

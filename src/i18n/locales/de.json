@@ -16,7 +16,88 @@
   },
   "about": {
     "title": "Über mich",
-    "subtitle": "Leidenschaftliche Entwicklerin mit Fokus auf Qualität und Ergebnisse"
+    "subtitle": "Leidenschaftliche Entwicklerin mit Fokus auf Qualität und Ergebnisse",
+    "hero": {
+      "greeting": "Schön, Sie kennenzulernen!",
+      "intro": "Eine leidenschaftliche Webentwicklerin und Automatisierungsexpertin mit Sitz in Genf, Schweiz. Ich verwandle komplexe Geschäftsherausforderungen in elegante digitale Lösungen, die Wachstum und Effizienz fördern.",
+      "facts": {
+        "location": "Genf, Schweiz",
+        "experience": "5+ Jahre Erfahrung",
+        "coffee": "Kaffee-Liebhaberin",
+        "code": "Sauberer-Code-Liebhaberin"
+      },
+      "cta": {
+        "work": "Lassen Sie Uns Zusammenarbeiten",
+        "resume": "Lebenslauf Herunterladen"
+      }
+    },
+    "story": {
+      "title": "Meine Reise",
+      "started": {
+        "title": "Wie Alles Begann",
+        "content": "Meine Reise in die Webentwicklung begann während meiner Universitätsjahre, als ich die Macht des Codes entdeckte, um reale Probleme zu lösen. Was als Neugier begann, wurde schnell zu einer Leidenschaft für die Erstellung digitaler Lösungen, die einen Unterschied machen."
+      },
+      "growing": {
+        "title": "Wachsen und Lernen",
+        "content": "Im Laufe der Jahre habe ich mit Startups und etablierten Unternehmen gearbeitet und ihnen geholfen, ihre digitale Präsenz zu skalieren. Jedes Projekt lehrte mich etwas Neues und verstärkte meinen Glauben, dass Technologie zugänglich, effizient und schön sein sollte."
+      },
+      "mission": {
+        "title": "Meine Mission Heute",
+        "content": "Heute konzentriere ich mich darauf, Unternehmen dabei zu helfen, Technologie zu nutzen, um ihre Ziele zu erreichen. Ob es darum geht, eine atemberaubende Website zu erstellen, eine komplexe Webanwendung zu entwickeln oder Geschäftsprozesse zu automatisieren, ich bin hier, um Ihre Vision in die Realität umzusetzen."
+      }
+    },
+    "skills": {
+      "title": "Fähigkeiten und Expertise",
+      "subtitle": "Ein umfassendes Toolkit, das durch jahrelange praktische Erfahrung und kontinuierliches Lernen in der sich ständig weiterentwickelnden Welt der Webentwicklung aufgebaut wurde."
+    },
+    "experience": {
+      "title": "Berufserfahrung"
+    },
+    "values": {
+      "title": "Meine Werte",
+      "subtitle": "Die Prinzipien, die meine Arbeit leiten und prägen, wie ich an jedes Projekt und jede Kundenbeziehung herangehe.",
+      "list": {
+        "passion": {
+          "title": "Leidenschaftsgetrieben",
+          "description": "Ich liebe aufrichtig, was ich tue. Jedes Projekt ist eine Gelegenheit, etwas Bedeutungsvolles und Wirkungsvolles zu schaffen."
+        },
+        "client": {
+          "title": "Kundenfokussiert",
+          "description": "Ihr Erfolg ist mein Erfolg. Ich arbeite eng mit Kunden zusammen, um ihre Bedürfnisse zu verstehen und Erwartungen zu übertreffen."
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Ich bleibe mit den neuesten Technologien und bewährten Praktiken auf dem Laufenden, um modernste Lösungen zu liefern."
+        },
+        "results": {
+          "title": "Ergebnisorientiert",
+          "description": "Jede Codezeile dient einem Zweck. Ich konzentriere mich darauf, messbare Ergebnisse und Geschäftswert zu liefern."
+        },
+        "reliability": {
+          "title": "Zuverlässigkeit",
+          "description": "Termine sind wichtig. Ich bin stolz darauf, Projekte pünktlich zu liefern und klare Kommunikation zu führen."
+        },
+        "quality": {
+          "title": "Qualität Zuerst",
+          "description": "Sauberer, wartbarer Code und gründliche Tests stellen sicher, dass Ihr Projekt dem Test der Zeit standhält."
+        }
+      }
+    },
+    "cta": {
+      "title": "Bereit Zusammenzuarbeiten?",
+      "subtitle": "Ich bin immer aufgeregt, neue Herausforderungen anzunehmen und dabei zu helfen, Ihre Ideen zum Leben zu erwecken. Lassen Sie uns besprechen, wie wir zusammenarbeiten können, um Ihre Ziele zu erreichen.",
+      "buttons": {
+        "talk": "Lassen Sie Uns Sprechen",
+        "resume": "Lebenslauf Herunterladen",
+        "work": "Meine Arbeit Ansehen"
+      },
+      "stats": {
+        "coffee": "Tassen Kaffee",
+        "code": "Zeilen Code",
+        "clients": "Zufriedene Kunden",
+        "projects": "Gestartete Projekte"
+      }
+    }
   },
   "services": {
     "title": "Was ich mache",

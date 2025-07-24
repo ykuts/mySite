@@ -16,7 +16,88 @@
   },
   "about": {
     "title": "About me",
-    "subtitle": "Passionate developer with focus on quality and results"
+    "subtitle": "Passionate developer with focus on quality and results",
+    "hero": {
+      "greeting": "Nice to meet you!",
+      "intro": "A passionate web developer and automation expert based in Geneva, Switzerland. I transform complex business challenges into elegant digital solutions that drive growth and efficiency.",
+      "facts": {
+        "location": "Geneva, Switzerland",
+        "experience": "5+ Years Experience",
+        "coffee": "Coffee Enthusiast", 
+        "code": "Clean Code Lover"
+      },
+      "cta": {
+        "work": "Let's Work Together",
+        "resume": "Download Resume"
+      }
+    },
+    "story": {
+      "title": "My Journey",
+      "started": {
+        "title": "How It All Started",
+        "content": "My journey into web development began during my university years when I discovered the power of code to solve real-world problems. What started as curiosity quickly became a passion for creating digital solutions that make a difference."
+      },
+      "growing": {
+        "title": "Growing & Learning", 
+        "content": "Over the years, I've worked with startups and established companies, helping them scale their digital presence. Each project taught me something new and reinforced my belief that technology should be accessible, efficient, and beautiful."
+      },
+      "mission": {
+        "title": "My Mission Today",
+        "content": "Today, I focus on helping businesses leverage technology to achieve their goals. Whether it's building a stunning website, developing a complex web application, or automating business processes, I'm here to turn your vision into reality."
+      }
+    },
+    "skills": {
+      "title": "Skills & Expertise",
+      "subtitle": "A comprehensive toolkit built through years of hands-on experience and continuous learning in the ever-evolving world of web development."
+    },
+    "experience": {
+      "title": "Professional Experience"
+    },
+    "values": {
+      "title": "My Values",
+      "subtitle": "The principles that guide my work and shape how I approach every project and client relationship.",
+      "list": {
+        "passion": {
+          "title": "Passion-Driven",
+          "description": "I genuinely love what I do. Every project is an opportunity to create something meaningful and impactful."
+        },
+        "client": {
+          "title": "Client-Focused",
+          "description": "Your success is my success. I work closely with clients to understand their needs and exceed expectations."
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "I stay current with the latest technologies and best practices to deliver cutting-edge solutions."
+        },
+        "results": {
+          "title": "Results-Oriented", 
+          "description": "Every line of code serves a purpose. I focus on delivering measurable results and business value."
+        },
+        "reliability": {
+          "title": "Reliability",
+          "description": "Deadlines matter. I pride myself on delivering projects on time and maintaining clear communication."
+        },
+        "quality": {
+          "title": "Quality First",
+          "description": "Clean, maintainable code and thorough testing ensure your project stands the test of time."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Work Together?",
+      "subtitle": "I'm always excited to take on new challenges and help bring your ideas to life. Let's discuss how we can work together to achieve your goals.",
+      "buttons": {
+        "talk": "Let's Talk",
+        "resume": "Download Resume",
+        "work": "View My Work"
+      },
+      "stats": {
+        "coffee": "Cups of coffee",
+        "code": "Lines of code",
+        "clients": "Happy clients",
+        "projects": "Projects launched"
+      }
+    }
   },
   "services": {
     "title": "What I do",
